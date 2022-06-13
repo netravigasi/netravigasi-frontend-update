@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857120960689",
+    "project_id": "netravigasi-33ab5",
+    "storage_bucket": "netravigasi-33ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857120960689:android:02e6601a4ac0a2f3cd3290",
+        "android_client_info": {
+          "package_name": "com.capstone.netravigasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857120960689-ld5ojgb98js5sdr5sn5o63aohjl9lekn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.netravigasi",
+            "certificate_hash": "7aa9aa844e99edc1c244399d7ebdb7680263ff4c"
+          }
+        },
+        {
+          "client_id": "857120960689-2dpjph4m0clrlnouh5mho8e8a02lqdo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAau_O6856St1kWoqxjMxO7e_fen2TJqdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857120960689-2dpjph4m0clrlnouh5mho8e8a02lqdo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
